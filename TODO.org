@@ -1,0 +1,52 @@
+#+title: Game Maker's Toolkit Game Jam 2020
+#+date: <2020-07-10 Fri> 
+* Theme: Out of Control
+* Jist: shmup, but you can only move by shooting
+* Game Notes
+** DOING Player
+*** DONE Controls
+    CLOSED: [2020-07-11 Sat 07:03]
+*** DONE Shoot
+    CLOSED: [2020-07-11 Sat 07:03]
+*** DONE Be Hit
+    CLOSED: [2020-07-11 Sat 10:08]
+*** DONE Health
+    CLOSED: [2020-07-11 Sat 10:08]
+*** TODO Guns... lots of guns...
+**** basic bullets (small impact)
+**** rockets (large impact)
+**** aoe-burst (random impact)
+** DOING Enemy
+*** DONE Brain
+    CLOSED: [2020-07-11 Sat 07:03]
+*** DONE Shoot
+    CLOSED: [2020-07-11 Sat 10:08]
+*** DONE Be hit
+    CLOSED: [2020-07-11 Sat 10:08]
+*** DONE Health
+    CLOSED: [2020-07-11 Sat 10:08]
+*** TODO Types of enemies
+**** DONE Spider/bug
+     CLOSED: [2020-07-11 Sat 10:08]
+**** ???
+**** ???
+** DOING World
+*** Game Over
+*** DONE Spawn Enemy
+    CLOSED: [2020-07-11 Sat 10:08]
+*** DONE Spawn Player
+    CLOSED: [2020-07-11 Sat 10:08]
+*** Change levels
+** DOING Level
+*** DONE Simple Tilemap
+    CLOSED: [2020-07-11 Sat 07:04]
+*** DONE should take advantage of the game jist
+    CLOSED: [2020-07-11 Sat 07:05]
+** Sound
+** UI
+*** HP 
+*** Ammo
+*** Weapon
+*** Menus
+**** Main Menu
+**** Game Over
